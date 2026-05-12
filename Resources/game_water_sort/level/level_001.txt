@@ -1,0 +1,8 @@
+[tube_count]
+2
+[hide_level]
+0
+[tube]
+6
+[tube]
+6 6 6

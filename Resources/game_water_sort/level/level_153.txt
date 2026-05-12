@@ -1,0 +1,28 @@
+[tube_count]
+14
+[mode]
+0
+[tube]
+4 6 4 5
+[tube]
+11 3 5 2
+[tube]
+2 1 12 9
+[tube]
+3 4 2 11
+[tube]
+12 8 9 11
+[tube]
+1 12 9 3
+[tube]
+7 8 11 8
+[tube]
+1 4 8 10
+[tube]
+10 6 7 7
+[tube]
+7 5 6 1
+[tube]
+10 5 3 6
+[tube]
+2 10 12 9
